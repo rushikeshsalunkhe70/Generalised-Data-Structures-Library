@@ -80,4 +80,6 @@ Designed with **templates** for type independence and modular, reusable componen
 + }
 '''''
 + ## 🧑‍💻 Author
- Developed By **Rushikesh Gajanan Salunkhe** 
+ Developed By **Rushikesh Gajanan Salunkhe** 📧 Contact:
+ rushikeshgsalunkhe@gmail.com(mailto:rushikeshgsalunkhe@gmail.com)
+ 
