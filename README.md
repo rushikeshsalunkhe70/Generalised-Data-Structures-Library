@@ -68,16 +68,16 @@ Designed with **templates** for type independence and modular, reusable componen
  
  ## 🧑‍💻 Example Usage
 
-+ #include "Generalized_Data_Structure_Library.cpp"
-+
-+ int main() {
-+    StackX<int> s;
-+    s.Push(10);
-+    s.Push(20);
-+    s.Display();     // Output: |20| |10|
-+    cout << "Count: " << s.Count() << endl;
-+    return 0;
-+ }
+ #include "Generalized_Data_Structure_Library.cpp"
+
+  int main() {
+     StackX<int> s;
+     s.Push(10);
+     s.Push(20);
+     s.Display();     // Output: |20| |10|
+     cout << "Count: " << s.Count() << endl;
+     return 0;
+ }
 '''''
 + ## 🧑‍💻 Author
  Developed By **Rushikesh Gajanan Salunkhe** 📧 Contact:
