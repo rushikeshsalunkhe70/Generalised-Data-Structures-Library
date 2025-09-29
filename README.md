@@ -23,14 +23,6 @@ Designed with **templates** for type independence and modular, reusable componen
 - **Searching**: Linear Search, Binary Search, etc.
 - **Sorting**: Bubble Sort, Selection Sort, Insertion Sort, and more.
 
-### ⚙️ Utility Functions
-- Palindrome detection
-- Addition of even and odd elements
-- Reverse number
-- Maximum/Minimum/Second Maximum
-- Prime and Perfect number identification
-- Digit-based operations (sum, product, smallest/largest digit)
-- And many other helper functions for practice and real-world usage.
 
 ---
 
