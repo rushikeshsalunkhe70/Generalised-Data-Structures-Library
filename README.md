@@ -99,5 +99,5 @@ int main() {
 
 
 ## 👨‍💻 Author
-Developed By Rushikesh Gajanan Salunkhe 📧 Contact: 
-rushikeshgsalunkhe@gmail(mailto:rushikeshgsalunkhe@gmail.com)
+Developed By **Rushikesh Gajanan Salunkhe** 
+📧 Contact: rushikeshgsalunkhe@gmail(mailto:rushikeshgsalunkhe@gmail.com)
