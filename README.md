@@ -3,7 +3,7 @@
 A **C++ generic library** that provides **object-oriented implementations** of essential **linear** and **non-linear data structures**, along with commonly used **searching and sorting algorithms**.  
 Designed with **templates** for type independence and modular, reusable components.
 
----
+-----
 
 ## 🚀 Features
 
@@ -91,5 +91,5 @@ int main() {
 
 
 ## 👨‍💻 Author
-Developed By **Rushikesh Gajanan Salunkhe** 
-📧 Contact: rushikeshgsalunkhe@gmail(mailto:rushikeshgsalunkhe@gmail.com)
+Developed By **Rushikesh Gajanan Salunkhe** 📧 Contact: 
+rushikeshgsalunkhe@gmail(mailto:rushikeshgsalunkhe@gmail.com)
