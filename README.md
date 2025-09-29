@@ -81,5 +81,5 @@ Designed with **templates** for type independence and modular, reusable componen
 '''''
 + ## 🧑‍💻 Author
  Developed By **Rushikesh Gajanan Salunkhe** 📧 Contact:
- rushikeshgsalunkhe@gmail.com(mailto:rushikeshgsalunkhe@gmail.com)
+ rushikeshgsalunkhe@gmail(mailto:rushikeshgsalunkhe@gmail.com)
  
