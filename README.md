@@ -1,5 +1,4 @@
-# Generalised-Data-Structures-Library
-A C++ library of generic data structures with OOP implementations of linear (linked lists, stack, queue) and non-linear (BST) structures. Includes searching and sorting algorithms. 
+ 
 # 🏗️ Generalised Data Structures Library
 
 A **C++ generic library** that provides **object-oriented implementations** of essential**linear**and **non-linear** data structures, along with commonly used **searching and sorting** algorithms.
